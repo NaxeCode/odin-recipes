@@ -1,20 +1,33 @@
 body {
 	background-color: black;
 	color: white;
+	font-family: 'Lucida Console', 'Courier New', monospace;
 }
 
-div {
-	padding: 25px;
+div.container {
+	height: 10em;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+div.container h1 {
+	margin: 0;
+}
+div.container p {
+	margin: 0;
+}
+div.container h2 {
+	margin: 0;
 }
 
 a:link {
-	color: green;
+	color: pink;
 	background-color: transparent;
 	text-decoration: none;
 }
 
 a:visited {
-	color: pink;
+	color: darkred;
 	background-color: transparent;
 	text-decoration: none;
 }
