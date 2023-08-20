@@ -20,14 +20,27 @@ div.container h2 {
 	margin: 0;
 }
 
+h1 {
+	font-size: xx-large;
+}
+
+h2 {
+	font-size: x-large;
+}
+
+h4 {
+	font-size: large;
+}
+
 a:link {
-	color: pink;
+	font-size: xx-large;
+	color: #ffc2cc;
 	background-color: transparent;
 	text-decoration: none;
 }
 
 a:visited {
-	color: darkred;
+	color: #ffc2cc;
 	background-color: transparent;
 	text-decoration: none;
 }
