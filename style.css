@@ -32,6 +32,18 @@ h4 {
 	font-size: large;
 }
 
+p {
+	font-size: medium;
+	color: bisque;
+}
+
+ul,
+li,
+ol {
+	font-size: medium;
+	color: bisque;
+}
+
 a:link {
 	font-size: xx-large;
 	color: #ffc2cc;
