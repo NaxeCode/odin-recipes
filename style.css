@@ -20,6 +20,13 @@ div.container h2 {
 	margin: 0;
 }
 
+h1,
+h2,
+h3,
+h4 {
+	margin-top: 40px;
+}
+
 h1 {
 	font-size: xx-large;
 }
@@ -35,11 +42,14 @@ h4 {
 p {
 	font-size: medium;
 	color: bisque;
+	margin-bottom: 5px;
+	margin-left: 40px;
 }
 
 ol,
 li {
 	margin-left: 10px;
+	margin-bottom: 5px;
 }
 ul,
 li {
