@@ -37,9 +37,12 @@ p {
 	color: bisque;
 }
 
+ol,
+li {
+	margin-left: 10px;
+}
 ul,
-li,
-ol {
+li {
 	font-size: medium;
 	color: bisque;
 }
